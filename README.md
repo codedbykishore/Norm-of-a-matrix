@@ -13,20 +13,40 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 # Register No:
 # Developed By:
 # 1-Norm of a Matrix
-
-
-
+'''
+Program to find 1-norm of a matrix.
+Developed by: Kishore B
+RegisterNumber: 23013723
+'''
+import numpy as np
+value=eval(input())
+arr=np.array(value)
+norm=np.linalg.norm(arr,1)
+print("{:.2f}".format(norm))
 
 # 2-Norm of a Matrix
-
-
-
+'''
+Program to find 2-norm of a matrix.
+Developed by: Kishore B
+RegisterNumber: 23013723
+'''
+import numpy as np
+value=eval(input())
+arr=np.array(value)
+norm=np.linalg.norm(arr,2)
+print("{:.2f}".format(norm))
 
 # Infinity Norm of a Matrix
-
-
-
-
+'''
+Program to find infinity norm of a matrix.
+Developed by: Kishore B
+RegisterNumber: 23013723
+'''
+import numpy as np
+value=eval(input())
+arr=np.array(value)
+norm=np.linalg.norm(arr,np.inf)
+print("{:.2f}".format(norm))
 
 ```
 ## Output:
