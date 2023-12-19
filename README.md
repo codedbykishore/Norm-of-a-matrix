@@ -40,7 +40,6 @@ print("{:.2f}".format(norm))
 ## Output:
 ### 1-Norm of a Matrix
 ![Screenshot 2023-12-19 150149](https://github.com/codedbykishore/Norm-of-a-matrix/assets/147139122/effa1e7a-207d-44dd-ac28-3bf5b07f463e)
-![Screenshot 2023-12-19 150149](https://github.com/codedbykishore/Norm-of-a-matrix/assets/147139122/d30f3cdf-5d18-4fb9-ba7a-e5633bd7904a)
 
 ### 2-Norm of a Matrix
 ![Screenshot 2023-12-19 151321](https://github.com/codedbykishore/Norm-of-a-matrix/assets/147139122/ae5ed460-b253-4f5d-acab-a295ede5966b)
